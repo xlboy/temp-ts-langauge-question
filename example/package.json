@@ -1,0 +1,7 @@
+{
+  "name": "type-zen-ts-plugin-example",
+  "devDependencies": {
+    "@type-zen/ts-plugin": "file:..",
+    "typescript": "^5.0.2"
+  }
+}
